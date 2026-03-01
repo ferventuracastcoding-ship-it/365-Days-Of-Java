@@ -14,3 +14,5 @@ public class GuessGame {
             guess == secret ? "You Win" : "You Lose! Number was " + secret);
     }
 }
+console.log(this);
+document.write.("Winning Player in the game!");
